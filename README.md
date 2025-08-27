@@ -10,4 +10,8 @@
 This repository contains my **C++ Object Oriented Programming (OOP)** practice.  
 It includes examples of **classes, objects, inheritance, polymorphism, encapsulation, abstraction** and more.
 
-## 📂 Folder Structure
+## 📂 Folder Structure  
+
+# Inorder Predecessor and successor logic and full-code
+-[BST](DSA/BST/)  
+
