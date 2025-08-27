@@ -13,5 +13,5 @@ It includes examples of **classes, objects, inheritance, polymorphism, encapsula
 ## 📂 Folder Structure  
 
 # Inorder Predecessor and successor logic and full-code
--[BST](DSA/BST/)  
+-[DS](BST/DS/)  
 
